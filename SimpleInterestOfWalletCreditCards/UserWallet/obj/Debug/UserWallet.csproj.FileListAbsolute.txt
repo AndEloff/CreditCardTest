@@ -1,0 +1,9 @@
+c:\users\newbsmasher\documents\visual studio 2015\Projects\NUnitTestProject1\UserWallet\bin\Debug\UserWallet.dll
+c:\users\newbsmasher\documents\visual studio 2015\Projects\NUnitTestProject1\UserWallet\bin\Debug\UserWallet.pdb
+c:\users\newbsmasher\documents\visual studio 2015\Projects\NUnitTestProject1\UserWallet\obj\Debug\UserWallet.dll
+c:\users\newbsmasher\documents\visual studio 2015\Projects\NUnitTestProject1\UserWallet\obj\Debug\UserWallet.pdb
+C:\Users\NewbSmasher\Documents\Visual Studio 2015\Projects\CreditCardTests\UserWallet\bin\Debug\UserWallet.dll
+C:\Users\NewbSmasher\Documents\Visual Studio 2015\Projects\CreditCardTests\UserWallet\bin\Debug\UserWallet.pdb
+C:\Users\NewbSmasher\Documents\Visual Studio 2015\Projects\CreditCardTests\UserWallet\obj\Debug\UserWallet.csprojResolveAssemblyReference.cache
+C:\Users\NewbSmasher\Documents\Visual Studio 2015\Projects\CreditCardTests\UserWallet\obj\Debug\UserWallet.dll
+C:\Users\NewbSmasher\Documents\Visual Studio 2015\Projects\CreditCardTests\UserWallet\obj\Debug\UserWallet.pdb

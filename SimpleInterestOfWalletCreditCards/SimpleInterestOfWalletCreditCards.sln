@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCards.Tests", "CreditCards.Tests\CreditCards.Tests.csproj", "{D54A0432-9FBF-493F-883C-28DDE69E3878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardsWithinWallet", "UserWallet\CreditCardsWithinWallet.csproj", "{F9518DF7-6484-478F-95EC-6AA770C3D46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54A0432-9FBF-493F-883C-28DDE69E3878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54A0432-9FBF-493F-883C-28DDE69E3878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54A0432-9FBF-493F-883C-28DDE69E3878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54A0432-9FBF-493F-883C-28DDE69E3878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9518DF7-6484-478F-95EC-6AA770C3D46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9518DF7-6484-478F-95EC-6AA770C3D46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9518DF7-6484-478F-95EC-6AA770C3D46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9518DF7-6484-478F-95EC-6AA770C3D46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
